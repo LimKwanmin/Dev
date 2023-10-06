@@ -1,0 +1,10 @@
+E:\임관민_개인자료\C#\doridori\PJT\13_inheritance\bin\Debug\13_inheritance.exe.config
+E:\임관민_개인자료\C#\doridori\PJT\13_inheritance\bin\Debug\13_inheritance.exe
+E:\임관민_개인자료\C#\doridori\PJT\13_inheritance\bin\Debug\13_inheritance.pdb
+E:\임관민_개인자료\C#\doridori\PJT\13_inheritance\obj\Debug\13_inheritance.csproj.AssemblyReference.cache
+E:\임관민_개인자료\C#\doridori\PJT\13_inheritance\obj\Debug\_13_inheritance.Form1.resources
+E:\임관민_개인자료\C#\doridori\PJT\13_inheritance\obj\Debug\_13_inheritance.Properties.Resources.resources
+E:\임관민_개인자료\C#\doridori\PJT\13_inheritance\obj\Debug\13_inheritance.csproj.GenerateResource.cache
+E:\임관민_개인자료\C#\doridori\PJT\13_inheritance\obj\Debug\13_inheritance.csproj.CoreCompileInputs.cache
+E:\임관민_개인자료\C#\doridori\PJT\13_inheritance\obj\Debug\13_inheritance.exe
+E:\임관민_개인자료\C#\doridori\PJT\13_inheritance\obj\Debug\13_inheritance.pdb
